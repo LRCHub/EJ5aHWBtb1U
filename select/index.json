@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LEAP HIGH! ～明日へ、めいっぱい～",
+  "base_artist": "PRODUCE 101 JAPAN THE GIRLS",
+  "createdAt": "2026-03-18T23:24:22.695757Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LEAP HIGH! 〜明日へ、めいっぱい〜",
+      "artist": "PRODUCE 101 JAPAN THE GIRLS",
+      "has_synced": true,
+      "path": "select/01_LEAP_HIGH!_〜明日へ、めいっぱい〜_PRODUCE_101_JAPAN_THE_GIRLS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High Infidelity",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_High_Infidelity_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Hopes Low",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/03_High_Hopes_Low_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High Hopes Low",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/04_High_Hopes_Low_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High and Dry",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/05_High_and_Dry_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "12 Feet High",
+      "artist": "Leslie Stevens",
+      "has_synced": false,
+      "path": "select/06_12_Feet_High_Leslie_Stevens.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "First High",
+      "artist": "Nikki Lane",
+      "has_synced": true,
+      "path": "select/07_First_High_Nikki_Lane.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Five Feet High and Rising - Live Version",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/08_Five_Feet_High_and_Rising_-_Live_Version_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Five Feet High and Rising (Live Version)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/09_Five_Feet_High_and_Rising_(Live_Version)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go Rest High On That Mountain",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/10_Go_Rest_High_On_That_Mountain_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High",
+      "artist": "Caitlyn Smith",
+      "has_synced": false,
+      "path": "select/11_High_Caitlyn_Smith.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "High & Mighty",
+      "artist": "Colter Wall",
+      "has_synced": true,
+      "path": "select/12_High_&_Mighty_Colter_Wall.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "High Cost of Living",
+      "artist": "Jamey Johnson",
+      "has_synced": true,
+      "path": "select/13_High_Cost_of_Living_Jamey_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High Cost Of Living (Album Version)",
+      "artist": "Jamey Johnson",
+      "has_synced": true,
+      "path": "select/14_High_Cost_Of_Living_(Album_Version)_Jamey_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High Cotton",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/15_High_Cotton_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High Cotton",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/16_High_Cotton_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "High Fashion Queen",
+      "artist": "The Flying Burrito Brothers",
+      "has_synced": true,
+      "path": "select/17_High_Fashion_Queen_The_Flying_Burrito_Brothers.lrc"
+    }
+  ]
+}
