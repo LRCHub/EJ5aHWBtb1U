@@ -1,0 +1,67 @@
+# PRODUCE 101 JAPAN THE GIRLS – LEAP HIGH! ～明日へ、めいっぱい～
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.44] One, two, three, leap high!
+[00:15.94] 
+[00:12.50] 待ってたの 世界に飛び出す時を
+[00:17.36] 夢を la-lil-la-la-la 歌って la-lil-la-la-la
+[00:20.87] そうすれば運命に出会えるでしょ
+[00:25.21] 夢と la-lil-la-la-la 踊って la-lil-la-la-la
+[00:28.88] ワクワクしたい? 私に任せなさい
+[00:32.45] ドキドキしてみたい? 手を繋ごうよ
+[00:40.95] 
+[00:36.71] 色づく空までhigher 煌めく星よりhigher
+[00:40.74] Na-na-na, na-na-na, na-na-na, na-na-na
+[00:42.61] Leap high! Leap high!
+[00:53.11] 
+[00:44.77] 私を見つけたこと
+[00:47.79] 決して comin' up in up higher 後悔させないわ
+[00:52.59] あと一歩 きっともうすぐなの
+[00:55.99] 届け flyin' up, flyin' up higher
+[00:58.42] Jumpin' up in up いっぱい
+[01:02.63] Leap high! Leap high!
+[01:13.13] 
+[01:08.68] One, two, three 1秒ごとにカラフルなstory
+[01:13.05] 夢を la-lil-la-la-la 歌って la-lil-la-la-la
+[01:16.84] 軽い気持ちで 言ってるんじゃないんだよ
+[01:21.10] 夢と la-lil-la-la-la 踊って la-lil-la-la-la
+[01:40.10] 
+[01:24.99] Leap me up, na-na-na
+[01:26.32] 止まらないこの twinkle, twinkle
+[01:28.88] Leap me up, na-na-na
+[01:30.55] 生まれた shinin' star
+[01:39.05] 
+[01:32.62] 負けない誰よりhigher 明日は今日よりhigher
+[01:36.81] Na-na-na, na-na-na, na-na-na, na-na-na
+[01:38.62] Leap high! Leap high!
+[01:49.12] 
+[01:40.69] 私に預けてみない?
+[01:43.87] 君の comin' up in up higher 雨上がる空
+[01:48.75] 追いついて 追い抜いてくの
+[01:52.04] もっと flyin' up, flyin' up higher
+[01:54.81] Jumpin' up in up いっぱい
+[02:05.31] 
+[02:05.85] Leap high!
+[02:10.85] 
+[02:17.80] Leap high!
+[02:22.80] 
+[02:22.48] 叶いますように 月のブランコで
+[02:30.06] 語りつくせない未来
+[02:33.08] 全てを君だけに打ち明けたいから
+[02:38.75] We can fly high, leap high!
+[02:52.25] 
+[02:43.48] 私を見つけたこと
+[02:46.52] 決して comin' up in up higher 後悔させないわ
+[02:50.65] あと一歩 きっともうすぐなの
+[02:54.16] 届け flyin' up, flyin' up higher
+[02:56.91] Jumpin' up in up いっぱい
+[03:01.05] Leap high! Leap high!
+[03:11.55] 
+[03:02.95] 何度も la-lil-la-la-la 歌うよ la-lil-la-la-la
+[03:07.23] 夢が見たいなら希望になるよ
+[03:11.48] 君と一緒だからどこまでも行こう
+[03:14.74] 手を繋いで さあ今走り出すよ
+[03:18.79] 明日へめいっぱい leap high!
+```
