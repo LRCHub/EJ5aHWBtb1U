@@ -1,4 +1,4 @@
-# PRODUCE 101 JAPAN THE GIRLS – FLY UP SO HIGH
+# PRODUCE 101 JAPAN THE GIRLS – LEAP HIGH! ～明日へ、めいっぱい～
 
 > **歌詞登録ステータス：同期歌詞あり**
 
